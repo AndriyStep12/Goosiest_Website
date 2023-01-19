@@ -234,7 +234,7 @@ body{
     margin-top: 15vh;
     height: 85vh;
     position: absolute;
-    margin-left: 100%;
+    margin-left: -100%;
     display: flex;
     justify-content: center;
     align-items: center;
